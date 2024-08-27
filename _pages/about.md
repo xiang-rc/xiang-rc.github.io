@@ -24,7 +24,7 @@ Sep. 2019 - Jun. 2022: **Tsinghua University (THU)**
   * Tsinghua Science and Technology Star Scholarship  
   * Second prize of the Fourth National Graduate IC Innovation Competition
 
-Sep. 2025 - Jun. 2019: **Harbin Institute of Technology (HIT)**  
+Sep. 2015 - Jun. 2019: **Harbin Institute of Technology (HIT)**  
   * B.S. in Electronic Information Science and Technology  
   * GPA Rank 1/70  
   * HIT Excellent Dissertation Award  
