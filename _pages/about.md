@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: Xiangren Chen (陈相任)
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Xiangren Chen is a second year Ph.D. Student from School of Integrated Circuit, Tsinghua University. His research interest includes computer architecture, crypto-processor for white-box cryptography, zero-knowledge proof, and post-quantum cryptography.
+
+He is currently advised by [Pof. Leibo Liu](https://www.sic.tsinghua.edu.cn/info/1014/1807.htm) and  [Pof. Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1014/1789.htm) from School of Integrated Circuit, Tsinghua University. His M.D. dissertation was recognized by the Tsinghua Excellent Dissertation Award.
