@@ -213,6 +213,13 @@ kramdown:
 # These settings control how pages and collections are included in the site
 
 
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
