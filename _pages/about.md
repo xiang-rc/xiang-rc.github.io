@@ -13,14 +13,17 @@ Xiangren Chen is a second year Ph.D. Student from School of Integrated Circuit, 
 Education Experience
 ======
 Sep. 2023 - This day: **Tsinghua University (THU)**  
-  * Ph.D. Student in Electronic Science and Technology  
+  * Ph.D. Student in Electronic Science and Technology
+
 Jul. 2022 - Sep. 2023: **Tsinghua University (THU)**  
-  * Research Assistent at Hardware Security and Cryptographic Processor Lab  
+  * Research Assistent at Hardware Security and Cryptographic Processor Lab
+
 Sep. 2019 - Jun. 2022: **Tsinghua University (THU)**  
   * M.D. in Integrated Circuit Engineering  
   * Tsinghua Excellent Dissertation Award  
   * Tsinghua Science and Technology Star Scholarship  
-  * Second prize of the Fourth National Graduate IC Innovation Competition  
+  * Second prize of the Fourth National Graduate IC Innovation Competition
+
 Sep. 2025 - Jun. 2019: **Harbin Institute of Technology (HIT)**  
   * B.S. in Electronic Information Science and Technology  
   * GPA Rank 1/70  
